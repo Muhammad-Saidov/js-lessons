@@ -989,13 +989,14 @@
 
 
 
-function for3(){
-    let a=3;
-    let b=7;
-    let n=0
-    for (let i=a; i<=b; i--){
+function for3() {
+    let a=10;
+    let b=25
+    let s=0; 
+    for (let i = b - 1; i > a; i--) {
+        s++;
         console.log(i);
-        n--;
     }
+    console.log( s);
 }
 for3()
