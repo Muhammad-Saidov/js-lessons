@@ -989,14 +989,88 @@
 
 
 
-function for3() {
-    let a=10;
-    let b=25
-    let s=0; 
-    for (let i = b - 1; i > a; i--) {
-        s++;
-        console.log(i);
-    }
-    console.log( s);
-}
-for3()
+// function for3() {
+//     let a=15;
+//     let b=25
+//     let s=0; 
+//     for (let i = b - 1; i > a; i--) {
+//         s++;
+//         console.log(i);
+//     }
+//     console.log( s);
+// }
+// for3()
+
+
+
+
+//  function for4(){
+//     let a=5;
+//     for (let i=1; i<=a; i++){
+//         console.log(i,"=",i*a);
+//     }
+//  }
+//  for4()
+
+
+
+// function for5(){
+//     let a = 5;
+//     for (let i = 1; i <= a; i += 0.2){
+//         console.log(i, "=", i * a);
+//     }
+// }
+// for5();
+
+
+
+
+// function for6(){
+//     let a = 5;
+//     for (let i = 1; i <= a; i += 0.2){
+//         console.log(i, "=", i * a);
+//     }
+// }
+// for6();
+
+
+
+// function for7(){
+//     let a = 5;
+//     let b = 7;
+//     let s=0;
+//     for (let i = a; i <= b; i++){
+//         s=s+i;
+//     }
+//     console.log(s);
+// }
+// for7();
+
+
+
+
+// function for8(){
+//     let a = 5;
+//     let b = 7;
+//     let s=1;
+//     for (let i = a; i <= b; i++){
+//         s=s*i;
+//     }
+//     console.log(s);
+// }
+// for8(); 
+
+
+
+// function for9(){
+//     let a = 5;
+//     let b = 7;
+//     let s=0;
+//     for (let i = a; i <= b; i++){
+//         s=s+i**2;
+//     }
+//     console.log(s);
+// }
+// for9();
+
+
